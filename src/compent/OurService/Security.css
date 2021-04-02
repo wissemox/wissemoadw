@@ -1,0 +1,69 @@
+.Security01 h1 {
+  margin-left: 500px;
+  padding-top: 50px;
+}
+.Security01 p {
+  padding-left: 550px;
+
+  color: #76809f;
+}
+
+.Security01 {
+  height: 180px;
+}
+.Number {
+  margin-left: 100px;
+  font-family: "Sakkal Majalla";
+  font-size: 70px;
+  color: #bf0d1f;
+}
+.Text05 {
+  display: flex;
+}
+.Text006 h5 {
+  font-size: 25px;
+  color: #2864aa;
+  height: 20px;
+}
+.Text006 h4 {
+  font-size: 20px;
+  width: 350px;
+  color: #7a7876;
+}
+.Text006 {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.Securit0y {
+  height: 1400px;
+}
+
+.FlexBox0 {
+  display: flex;
+  background-color: #f7f7f7;
+  height: 1050px;
+}
+.Textad {
+  margin-top: 450px;
+  margin-right: 50px;
+}
+.Textad img {
+  width: 650px;
+}
+
+.Security01 {
+  background-color: #f7f7f7;
+  width: 800px;
+}
+.Security01 h1 {
+  width: 600px;
+}
+.Security01 p {
+  width: 320px;
+  padding-left: 60px;
+  margin-left: 444px;
+}
+.Security01 {
+  margin-bottom: 80px;
+}

@@ -1,0 +1,46 @@
+.GetStart {
+  font-family: "Sakkal Majalla";
+  font-size: 45px;
+  height: 20px;
+  margin-left: 150px;
+  color: #2864aa;
+}
+.Input05 input {
+  border-radius: 20px;
+  border: none;
+  border: solid 1px rgb(128, 128, 128);
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 80px;
+}
+.Input05 {
+  height: 450px;
+}
+.Input05 {
+  margin-top: 20px;
+}
+.Input05 p {
+  text-align: center;
+  height: 10px;
+  padding-top: 10px;
+}
+.lOGIN input {
+  border-radius: 18px;
+  width: 300px;
+  border: solid 1px #b3b3b3;
+  margin-left: 80px;
+}
+.lOGIN {
+  height: 200px;
+}
+.lOGIN {
+  margin-top: 50px;
+}
+.lOGIN p {
+  text-align: center;
+  padding-right: 10px;
+  font-family: "Sakkal Majalla";
+  height: 20px;
+
+  font-size: 20px;
+}

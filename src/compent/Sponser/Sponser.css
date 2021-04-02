@@ -1,0 +1,24 @@
+.Spancer {
+  background-color: #2864aa;
+  height: 50px;
+  color: #2864aa;
+  color: white;
+}
+.Spancer {
+  display: flex;
+}
+.Spancer p {
+  width: 400px;
+  text-align: left;
+  font-family: "Sakkal Majalla";
+  font-size: 20px;
+  margin-left: 150px;
+}
+.Spancer {
+  height: 100px;
+}
+.Spancer {
+  padding-left: 900px;
+  font-size: 25px;
+  padding-top: 30px;
+}

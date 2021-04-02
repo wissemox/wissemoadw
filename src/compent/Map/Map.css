@@ -1,0 +1,49 @@
+.Map {
+  display: flex;
+}
+.Map img {
+  width: 400px;
+  margin-left: 50px;
+}
+.EnEurope {
+  display: flex;
+}
+.Map img:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Map img {
+  width: 400px;
+}
+.BackGround55 p {
+  font-size: 25px;
+}
+.Testxaa p {
+  margin-top: 50px;
+  padding-left: 600px;
+  margin-bottom: 50px;
+  height: 80px;
+  font-weight: 400;
+  font-size: 60px;
+  font-family: "Sakkal Majalla";
+}
+.EnEurope p {
+  font-family: "Sakkal Majalla";
+  font-size: 43px;
+  height: 30px;
+  margin-left: 100px;
+}
+.EnAfrique {
+  margin-left: 220px;
+  margin-bottom: 30px;
+}
+.Binpact59 img {
+  margin-top: 100px;
+  width: 450px;
+}
+.Binpact59 img:hover {
+  box-shadow: none;
+}
+.Map {
+  margin-left: 50px;
+  margin-bottom: 50px;
+}

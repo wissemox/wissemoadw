@@ -1,0 +1,96 @@
+.BackGround05 {
+  background-image: url("Background03.jpg");
+  padding-top: 20px;
+  height: 700px;
+  width: 1500px;
+}
+.BackGround05 img {
+  width: 450px;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+.Flex-Box02 {
+  display: flex;
+}
+.DisplayFlex {
+  display: flex;
+}
+.InputLogin {
+  margin-left: 300px;
+}
+.InputLogin input {
+  border-radius: 18px;
+  border: none;
+  border: solid 2px #9e9fa0;
+  width: 300px;
+  height: 20px;
+}
+.InputLogin input:hover {
+  border: solid 3px #2864aa;
+}
+.InputLogin p {
+  padding-left: 1px;
+  height: 10px;
+  text-align: center;
+  font-size: 30px;
+  color: #2864aa;
+  font-family: "Sakkal Majalla";
+}
+.InputLogin {
+  margin-top: 100px;
+}
+.InputLogin button {
+  border: none;
+  background-color: #bf0d1f;
+  color: white;
+  border-radius: 18px;
+  width: 150px;
+  height: 25px;
+  margin-top: 40px;
+  margin-left: 70px;
+}
+.InputLogin h6 {
+  padding-left: 40px;
+  padding-bottom: 20px;
+  font-size: 18px;
+  height: 3px;
+  font-weight: 400;
+}
+.Image {
+  width: 50px;
+}
+.Image {
+  display: flex;
+}
+.InputLogin img {
+  width: 50px;
+}
+.InputLogin img {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.ImageFlex {
+  display: flex;
+}
+.ImageFlex {
+  margin-left: 90px;
+  margin-top: 20px;
+}
+#Email {
+  color: #bf0d1f;
+  font-size: 25px;
+}
+.ImageFlex {
+  margin-left: 80px;
+}
+#Register {
+  font-size: 60px;
+  font-family: "Sakkal Majalla";
+  color: white;
+  border-radius: 30px;
+  width: 340px;
+  height: 30px;
+
+  padding-left: 30px;
+}

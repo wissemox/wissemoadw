@@ -1,0 +1,173 @@
+.Service {
+  margin-bottom: 20px;
+}
+.Service {
+  margin-left: 220px;
+}
+.Service img {
+  width: 350px;
+}
+
+.Service {
+  display: flex;
+}
+
+.Progress {
+  margin-left: 40px;
+}
+.ListProduct {
+  background-color: white;
+  width: 350px;
+  height: 400px;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.ListProduct p {
+  font-family: "Sakkal Majalla";
+  height: 5px;
+  font-size: 40px;
+  padding-left: 130px;
+  margin-top: 3px;
+  color: #2864aa;
+}
+.Progress p {
+  font-family: "Sakkal Majalla";
+  height: 5px;
+  font-size: 40px;
+  padding-left: 110px;
+  margin-top: 3px;
+  color: #2864aa;
+}
+.Security p {
+  font-family: "Sakkal Majalla";
+  height: 5px;
+  font-size: 40px;
+  padding-left: 100px;
+  margin-top: 3px;
+  color: #2864aa;
+}
+
+.ListProduct img {
+  width: 100px;
+  margin-top: 70px;
+  margin-left: 120px;
+}
+.ListProduct p {
+  opacity: 80%;
+  padding-top: 20px;
+  padding-left: 40px;
+  font-size: 35px;
+}
+.Security img {
+  margin-top: 100px;
+  margin-left: 130px;
+  width: 80px;
+}
+.Security p {
+  font-size: 30px;
+  width: 300px;
+  padding-left: 20px;
+  margin-left: 20px;
+  opacity: 80%;
+  padding-top: 15px;
+}
+.Security h3 {
+  font-size: 18px;
+  padding-top: 23px;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: center;
+}
+.Security {
+  width: 350px;
+  height: 700px;
+}
+.ListProduct p:hover {
+  opacity: 100%;
+}
+.ListProduct h3 {
+  padding-top: 23px;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: center;
+}
+.ListProduct img {
+  margin-top: 80px;
+}
+.Security {
+  margin-top: 100px;
+  height: 350px;
+}
+.Security:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transform: scale(1.1);
+  transition: transform 0.5s;
+}
+.Progress:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transform: scale(1.1);
+  transition: transform 0.5s;
+}
+.ListProduct:hover {
+  box-shadow: none;
+  transform: scale(1.1);
+  transition: transform 0.5s;
+}
+.Security {
+  margin-right: 40px;
+}
+.Progress {
+  margin-top: 100px;
+}
+.Progress img {
+  margin-top: 80px;
+  width: 80px;
+  margin-left: 120px;
+}
+.Progress h3 {
+  font-size: 13px;
+  padding-left: 10px;
+  color: #737373;
+  font-weight: 300;
+  text-align: center;
+  padding-top: 60px;
+  width: 300px;
+}
+.Progress {
+  width: 330px;
+  height: 420px;
+}
+.Progress p {
+  opacity: 80%;
+  width: 300px;
+  font-size: 28px;
+  padding-left: 12px;
+  padding-top: 15px;
+  text-align: center;
+}
+.Progress p:hover {
+  opacity: 100%;
+}
+.Security01 {
+  background-color: white;
+
+  height: 400px;
+}
+.Text02 {
+  font-family: "Sakkal Majalla";
+  font-size: 28px;
+
+  padding-left: 580px;
+  margin-bottom: 50px;
+}
+.Text02 h1 {
+  padding-left: 60px;
+  height: 40px;
+}
+.Text02 h3 {
+  font-size: 28px;
+  padding-left: 35px;
+  color: #898989;
+
+  font-weight: 300;
+}

@@ -1,0 +1,23 @@
+.Catgories h2 {
+  text-align: center;
+  padding-top: 15px;
+  height: 40px;
+  font-size: 40px;
+  font-weight: 400;
+  font-family: "Sakkal Majalla";
+}
+.Catgories p {
+  text-align: center;
+  font-size: 12px;
+  width: 800px;
+  color: #76767f;
+  padding-top: 30px;
+  padding-left: 400px;
+  margin-left: 160px;
+}
+
+.Catgories {
+  margin-top: 50px;
+  background-color: white;
+  margin-bottom: 80px;
+}

@@ -1,0 +1,57 @@
+.Navbar {
+  display: flex;
+}
+.Navbar {
+  height: 70px;
+  margin-bottom: 20px;
+}
+.Text p {
+  width: 100px;
+}
+.Text {
+  display: flex;
+}
+.NavBar02 {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  height: 100px;
+}
+.Navbar img {
+  margin-top: 30px;
+  margin-left: 110px;
+  width: 200px;
+}
+.Text {
+  font-family: "Sakkal Majalla";
+  padding-top: 27px;
+  font-size: 25px;
+  margin-left: 300px;
+}
+.Text p {
+  margin-left: 45px;
+}
+.NavBar02 {
+  margin-top: 30px;
+}
+.SignUp {
+  background-color: #bf0d1f;
+  width: 80px;
+  padding-left: 30px;
+  color: white;
+  border-radius: 30px;
+}
+
+.Login {
+  background-color: #2864aa;
+  width: 80px;
+  padding-left: 30px;
+  color: white;
+  border-radius: 30px;
+}
+.Dadaz {
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 150px;
+}

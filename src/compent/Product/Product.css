@@ -1,0 +1,73 @@
+.ProductBackGround {
+  margin-top: 100px;
+
+  background-color: #f7f7f7;
+  height: 800px;
+}
+.ProductMapFlex {
+  width: 1500px;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+.FlexBox {
+  margin-left: 60px;
+}
+.FlexBox img {
+  margin-bottom: 50px;
+  width: 230px;
+  height: 130px;
+}
+.FlexBox {
+  background-color: white;
+  height: 600px;
+  width: 300px;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 70px;
+}
+.FlexBox img {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.FlexBox p {
+  padding-right: 30px;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Sakkal Majalla";
+}
+.FlexBox button {
+  border: none;
+  background-color: #2864aa;
+  height: 30px;
+  border-radius: 50px;
+  margin-left: px;
+  font-size: 20px;
+  font-family: "Sakkal Majalla";
+  width: 200px;
+  color: white;
+}
+.ProductBackGround input {
+  margin-left: 580px;
+  background-color: none;
+  border-radius: 18px;
+  border: solid 2px rgb(160, 160, 160);
+  width: 420px;
+}
+.ProductBackGround input:hover {
+  border: solid 2px #2864aa;
+}
+.FlexBox:hover {
+  transform: scale(1.2);
+  transition: transform 1s;
+}
+.FlexBox {
+  height: 200px;
+}
+.ProductBackGround h1 {
+  padding-top: 50px;
+  padding-left: 620px;
+  font-size: 50px;
+  font-family: "Sakkal Majalla";
+  font-weight: 400;
+}

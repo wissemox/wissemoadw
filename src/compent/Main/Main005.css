@@ -1,0 +1,58 @@
+.ALLMain {
+  display: flex;
+  margin-top: 40px;
+}
+.BinpactText {
+  font-size: 100px;
+  height: 230px;
+  font-family: "Sakkal Majalla";
+  color: #2864aa;
+  margin-left: 80px;
+}
+.BinpactText p {
+  height: 60px;
+}
+.Padding {
+  margin-top: 30px;
+  opacity: 60%;
+}
+.TextDesinMain {
+  color: #848484;
+  line-height: 1.8;
+  margin-left: 80px;
+}
+.ButtoSeemore {
+  padding-bottom: 12px;
+  margin-left: 80px;
+  border-radius: 30px;
+  border: none;
+  background-color: #bf0d1f;
+  color: white;
+  height: 28px;
+  width: 100px;
+  font-family: "Myriad Pro";
+  font-weight: 300;
+  font-size: 20px;
+}
+.ButtonMve button {
+  border: none;
+  background-color: #848484;
+  border-radius: 30px;
+  height: 10px;
+  margin-left: 5px;
+  width: 3px;
+}
+.ButtonMve {
+  margin-left: 82px;
+  margin-top: 40px;
+}
+.Image {
+  margin-top: 100px;
+}
+.Image img {
+  width: 550px;
+  margin-left: 350px;
+}
+.TextMenu {
+  margin-left: 50px;
+}
