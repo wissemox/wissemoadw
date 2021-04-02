@@ -10,7 +10,7 @@ const Product = () => {
         Descrpation:`dazdadazd ${<br/>} dazdazfazdazdfa`
     },
     {
-        image:"https://www.sbsinformatique.com/464/casque-gaming-msi-immerse-gh30-tunisie.jpg",
+        image:"https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/inspiron_notebooks/13_7300/general/new-cat-page-tile-laptop-inspiron-13-7300-15-7591-800x620.png?fmt=png-alpha&amp;wid=800&amp;hei=620",
         name:"Watch",
         Prix:50,
         Descrpation:`dazdadazd ${<br/>} dazdazfazdazdfa`

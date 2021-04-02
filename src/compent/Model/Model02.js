@@ -20,7 +20,6 @@ const Register = (props) => {
       <Button color="danger" onClick={toggle}>Register</Button>
       <Modal isOpen={modal} modalTransition={{ timeout: 700 }} backdropTransition={{ timeout: 1300 }}
         toggle={toggle} className={className}>
-        <ModalHeader toggle={toggle}> <p className="GetStart">GET START</p></ModalHeader>
         <ModalBody>
         <div className="Input05">
             <p>Username</p>
@@ -37,12 +36,18 @@ const Register = (props) => {
             <p>Confirm Password</p>
             {Confirm.length===0 ? <p style={{color:"#BF0D1F"}}>Confirm empty</p> : null}
             <input type="password" value={Confirm} onChange={(e)=>setCofirm(e.target.value)}/>
+            <div className="Button05">
+                <div className="Button56">
+                <button color="primary" onClick={toggle}>Login</button>{' '}
+          <button id="Dasw" color="secondary" onClick={toggle}>Cancel</button>
+                </div>
+
+           
+            </div>
+           
         </div>
         </ModalBody>
-        <ModalFooter>
-          <Button color="primary" onClick={toggle}>Do Something</Button>{' '}
-          <Button color="secondary" onClick={toggle}>Cancel</Button>
-        </ModalFooter>
+     
       </Modal>
     </div>
   );

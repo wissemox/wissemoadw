@@ -13,29 +13,34 @@
   margin-top: 30px;
   margin-left: 80px;
 }
-.Input05 {
-  height: 450px;
-}
+
 .Input05 {
   margin-top: 20px;
+  border-radius: 30px;
 }
 .Input05 p {
   text-align: center;
   height: 10px;
+
   padding-top: 10px;
 }
 .lOGIN input {
   border-radius: 18px;
+  height: 40px;
   width: 300px;
   border: solid 1px #b3b3b3;
   margin-left: 80px;
 }
-.lOGIN {
-  height: 200px;
+.lOGIN p {
+  font-weight: 500;
 }
 .lOGIN {
-  margin-top: 50px;
+  height: 300px;
 }
+.lOGIN {
+  margin-top: 30px;
+}
+
 .lOGIN p {
   text-align: center;
   padding-right: 10px;
@@ -43,4 +48,50 @@
   height: 20px;
 
   font-size: 20px;
+}
+.GetStart p {
+  font-size: 30px;
+  font-weight: 500;
+}
+.lOGIN h1 {
+  font-weight: 600;
+}
+.Button05 button {
+  border: none;
+  color: white;
+  background-color: #2864aa;
+  border-radius: 18px;
+  height: 30px;
+  margin-top: 30px;
+}
+.Button05 {
+  margin-left: 50px;
+  display: flex;
+}
+.Button05 button {
+  margin-left: 20px;
+  width: 200px;
+}
+#Dasw {
+  width: 100px;
+  background-color: #bf0d1f;
+  color: white;
+}
+.Button56 button {
+  background-color: #2864aa;
+  border: none;
+  border-radius: 18px;
+}
+.Button56 button {
+  width: 200px;
+}
+.Button56 {
+  color: white;
+}
+.Button56 {
+  margin-top: 70px;
+  margin-left: 50px;
+}
+.Button56 p {
+  color: white;
 }
