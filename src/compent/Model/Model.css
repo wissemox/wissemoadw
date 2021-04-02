@@ -16,7 +16,6 @@
 
 .Input05 {
   margin-top: 20px;
-  border-radius: 30px;
 }
 .Input05 p {
   text-align: center;
@@ -84,6 +83,8 @@
 }
 .Button56 button {
   width: 200px;
+  height: 30px;
+  margin-left: 20px;
 }
 .Button56 {
   color: white;
