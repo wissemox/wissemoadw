@@ -6,48 +6,56 @@ const Product = () => {
     const [Product , ListProduct]=useState([{
         image:"https://lh3.googleusercontent.com/proxy/Jv2Glq8VvEy3hvdCvlMz_AeSMUSXl3GmqxN27JWdJK_0TiOJyuwVvTw1tMCCxbFnUD8sBxzF6A-eTko9EfO1QyprS8_46HZdRbavEteM93jJVnXy5ztiV2giaL_ZiJ6zmwzt9wV8fk1cBG4UMqatnQlXvYhJF-vi6dpcNA",
         name:"ecouter",
+        Rate:4,
         Prix:50,
-        Descrpation:`dazdadazd ${<br/>} dazdazfazdazdfa`
+        Descrpation:`dazdadazd  dazdazfazdazdfa`
     },
     {
         image:"https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/inspiron_notebooks/13_7300/general/new-cat-page-tile-laptop-inspiron-13-7300-15-7591-800x620.png?fmt=png-alpha&amp;wid=800&amp;hei=620",
-        name:"Watch",
-        Prix:50,
-        Descrpation:`dazdadazd ${<br/>} dazdazfazdazdfa`
-    },
-    {
-        image:"http://3.bp.blogspot.com/-T5qe5SksNu8/VfgN51zkaTI/AAAAAAAAAkU/BA48vQpDVhs/w1200-h630-p-k-no-nu/appleiwatch.jpg",
-        name:"Watch",
-        Prix:50,
-        Descrpation:`dazdadazd ${<br/>} dazdazfazdazdfa`
-    },
-    {
-        image:"http://3.bp.blogspot.com/-T5qe5SksNu8/VfgN51zkaTI/AAAAAAAAAkU/BA48vQpDVhs/w1200-h630-p-k-no-nu/appleiwatch.jpg",
-        name:"azdatch",
-        Prix:50,
-        Descrpation:`dazdadazd ${<br/>} dazdazfazdazdfa`
-    },
-    {
-        image:"http://3.bp.blogspot.com/-T5qe5SksNu8/VfgN51zkaTI/AAAAAAAAAkU/BA48vQpDVhs/w1200-h630-p-k-no-nu/appleiwatch.jpg",
-        name:"Watdazch",
-        Prix:50,
-        Descrpation:`dazdadazd ${<br/>} dazdazfazdazdfa`
-    },
-    {
-        image:"https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/inspiron_notebooks/13_7300/general/new-cat-page-tile-laptop-inspiron-13-7300-15-7591-800x620.png?fmt=png-alpha&amp;wid=800&amp;hei=620",
-        name:"Watch",
+        name:"Computer",
+        Rate:3,
         Prix:50,
         Descrpation:`dazdadazd dazdazfazdazdfa`
+    },
+    {
+        image:"http://3.bp.blogspot.com/-T5qe5SksNu8/VfgN51zkaTI/AAAAAAAAAkU/BA48vQpDVhs/w1200-h630-p-k-no-nu/appleiwatch.jpg",
+        Rate:5,
+        name:"Watch",
+        Prix:50,
+        Descrpation:`dazdadazd  dazdazfazdazdfa dazdadazd  dazdazfazdazdfa dazdadazd  dazdazfazdazdfa dazdadazd  dazdazfazdazdfa`
+    },
+    {
+        image:"http://3.bp.blogspot.com/-T5qe5SksNu8/VfgN51zkaTI/AAAAAAAAAkU/BA48vQpDVhs/w1200-h630-p-k-no-nu/appleiwatch.jpg",
+        Rate:5,
+        name:"azdatch",
+        Prix:50,
+        Descrpation:`dazdadazd  dazdazfazdazdfa dazdadazd  dazdazfazdazdfa dazdadazd  dazdazfazdazdfa `
+    },
+    {
+        image:"http://3.bp.blogspot.com/-T5qe5SksNu8/VfgN51zkaTI/AAAAAAAAAkU/BA48vQpDVhs/w1200-h630-p-k-no-nu/appleiwatch.jpg",
+        Rate:1,
+        name:"Watdazch",
+        Prix:50,
+        Descrpation:`dazdadazd dazdazfazdazdfa dazdadazd  dazdazfazdazdfa dazdadazd  dazdazfazdazdfa dazdadazd  dazdazfazdazdfa dazdadazd  dazdazfazdazdfa `
+    },
+    {
+        image:"https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/inspiron_notebooks/13_7300/general/new-cat-page-tile-laptop-inspiron-13-7300-15-7591-800x620.png?fmt=png-alpha&amp;wid=800&amp;hei=620",
+        name:"Watch",
+         Rate:5,
+        Prix:50,
+        Descrpation:`dazdadazd dazdazfazdazdfa dazdadazd  dazdazfazdazdfa dazdadazd  dazdazfazdazdfa dazdadazd  dazdazfazdazdfa`
     },
     {
         image:"https://www.blogduwebdesign.com/wp-content/uploads/2019/12/bdw-souris-ordinateurs-8.jpg",
         name:"Adthc",
+        Rate:3,
         Prix:50,
         Descrpation:`dazdadazd dazdazfazdazdfa`
     },
     {
         image:"http://3.bp.blogspot.com/-T5qe5SksNu8/VfgN51zkaTI/AAAAAAAAAkU/BA48vQpDVhs/w1200-h630-p-k-no-nu/appleiwatch.jpg",
         name:"Adthc",
+        Rate:4,
         Prix:50,
         Descrpation:`dazdadazd dazdazfazdazdfa`
     }

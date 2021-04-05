@@ -2,6 +2,7 @@ import React from 'react'
 import './Map.css'
 const Map = () => {
     return (
+        <div className="BackGround033">
         <div className="BackGround55">
             <div className="Testxaa">
             <p>On nous trouver ? </p>
@@ -25,6 +26,7 @@ const Map = () => {
             <div className="Image06">
             
             </div>
+        </div>
         </div>
         </div>
     )

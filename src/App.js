@@ -10,7 +10,8 @@ import Login from './compent/Auth/Login'
 import Security from './compent/OurService/Security'
 import Catgory from './compent/Catgory/Catgory'
 import Map from './compent/Map/Map'
-
+import OurService2 from './compent/OurService2/OurService2'
+import OurService03 from './compent/OurService2/OurService03'
 
 
 function App() {
@@ -29,6 +30,8 @@ function App() {
       <Route exact path="/" render={()=> <Catgory/>}></Route>
       <Route exact path="/" render={()=>  <Product/>}></Route>
       {/* Map */}
+      <Route exact path="/" render={()=><OurService2/>}></Route>
+      <Route exact path="/" render={()=><OurService03/>}></Route>
       <Route exact path="/" render={()=>  <Map/>}></Route>
       <Route exact path="/" render={()=> <Sponser/>}></Route>
       </BrowserRouter>

@@ -1,0 +1,97 @@
+.BackrgroundWhite {
+  background-color: white;
+  height: 380px;
+}
+.BackrgroundWhite h1 {
+  font-size: 35px;
+  padding-top: 40px;
+  text-align: center;
+}
+.BackrgroundWhite p {
+  font-family: "Sakkal Majalla";
+}
+.BackrgroundWhite {
+  font-family: "Sakkal Majalla";
+}
+.BackrgroundWhite h1 {
+  font-size: 50px;
+  font-weight: 500;
+}
+.BackrgroundWhite p {
+  padding-left: 100px;
+  font-size: 25px;
+  width: 600px;
+  text-align: center;
+  margin-left: 400px;
+}
+.BackrgroundWhite {
+}
+.BackrgroundWhite {
+  height: 250px;
+  margin-top: 50px;
+}
+.Dasw {
+  margin-top: 100px;
+  font-weight: 500;
+}
+.Dasw p {
+  color: #b4b4b4;
+  font-weight: "Sakkal Majalla";
+}
+.Dasw h1 {
+  font-weight: 600;
+  opacity: 60%;
+}
+.BackgroundSErvice03 {
+  margin-top: 30px;
+  background-color: #f4f4f4;
+  height: 600px;
+}
+.BackgroundSErvice03 h1 {
+  font-family: "Sakkal Majalla";
+  height: 50px;
+  text-align: center;
+  width: 580px;
+  margin-left: 460px;
+  padding-top: 50px;
+  font-weight: 500;
+}
+.Read img {
+  width: 80px;
+}
+.Star img {
+  width: 80px;
+}
+.FlexBox6 {
+  display: flex;
+  width: 1000px;
+  background-color: red;
+}
+.BackgroundSErvice03 img {
+  width: 100px;
+  margin-left: 220px;
+}
+.ImabeFlexBox {
+  margin-top: 50px;
+  margin-left: 170px;
+}
+.ImabeFlexBox img {
+  margin-top: 180px;
+}
+.Coworkers {
+  font-family: "Sakkal Majalla";
+  font-size: 30px;
+  display: flex;
+}
+.Coworkers p {
+  margin-left: 100px;
+  padding-top: 30px;
+  text-align: center;
+  width: 200px;
+}
+.Coworkers {
+  padding-left: 100px;
+}
+.Testaswa {
+  padding-right: 50px;
+}

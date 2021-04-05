@@ -1,8 +1,7 @@
 .ProductBackGround {
   margin-top: 100px;
-
+  height: 1400px;
   background-color: #f7f7f7;
-  height: 800px;
 }
 .ProductMapFlex {
   width: 1500px;
@@ -24,7 +23,7 @@
   width: 300px;
   border-radius: 50px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-top: 70px;
+  margin-top: 150px;
 }
 .FlexBox img {
   margin-top: 30px;
@@ -38,6 +37,7 @@
 }
 .FlexBox button {
   border: none;
+
   background-color: #2864aa;
   height: 30px;
   border-radius: 50px;
@@ -70,4 +70,164 @@
   font-size: 50px;
   font-family: "Sakkal Majalla";
   font-weight: 400;
+}
+.Rate02 {
+  background-color: white;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  opacity: 60%;
+  height: 400px;
+}
+
+.Rate {
+  margin-left: 78px;
+}
+.Rate span {
+  margin-left: 5px;
+}
+#Descripation {
+  font-size: 20px;
+}
+.Widht {
+  width: 250px;
+  margin-top: 20px;
+  margin-left: 32px;
+}
+.AllProductThink {
+  margin-top: 20px;
+}
+.NameProdiuct p {
+  margin-bottom: 20px;
+}
+.NameProdiuct p {
+  padding-top: 20px;
+}
+.Prix {
+  display: flex;
+}
+.Prix img {
+  width: 50px;
+  height: 50px;
+}
+.Prix span {
+  margin-left: 50px;
+  padding-top: 44px;
+}
+.Prix {
+  margin-top: 20px;
+}
+.NameProdiuct p {
+}
+.Prix p {
+  padding-bottom: 60px;
+  text-align: center;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 22px;
+}
+.Prix {
+  height: 100px;
+}
+.NameProdiuct p {
+  height: 30px;
+}
+.FlexBox {
+  margin-bottom: 20px;
+}
+.ImageFlex02 {
+  display: flex;
+}
+.ImageFlex02 button {
+  font-size: 15px;
+  width: 20px;
+  height: 170px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  border-radius: 50px;
+}
+.OneForall {
+  display: flex;
+}
+.OneForall img {
+  width: 150px;
+  height: 100px;
+  margin-bottom: 30px;
+}
+.FlexBoxButton {
+  display: flex;
+  margin-left: 20px;
+}
+.Rateing {
+  padding-left: 50px;
+  padding-top: 10px;
+}
+.ImageRating {
+  height: 130px;
+}
+.FlexBoxButton button {
+  width: 15px;
+  margin-bottom: 20px;
+}
+.FlexBoxButton p {
+  padding-right: 30px;
+  font-size: 18px;
+}
+.Descrrpation {
+  background-color: #2864aa;
+  opacity: 60%;
+  width: 180px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.OneForall {
+  margin-left: 80px;
+}
+.Descrrpation p {
+  color: white;
+  padding-left: 10px;
+  text-align: left;
+}
+.DescrrpationText {
+  margin-top: 10px;
+  border-radius: 0px;
+}
+.Descrrpation {
+  border-radius: 0px;
+  margin-left: 5px;
+  margin-right: 12px;
+  width: 180px;
+}
+.DescrrpationText button {
+  height: 30px;
+  width: 60px;
+  background-color: red;
+  margin-left: 80px;
+}
+.Rate00 {
+  display: flex;
+}
+.Rate00 img {
+  width: 20px;
+  margin-top: 3px;
+
+  height: 20px;
+}
+.TextBitcoin {
+  width: 110px;
+}
+.TextBitcoin p {
+  width: 150px;
+}
+.OneForAll02 {
+  display: flex;
+}
+.FlexBox img {
+  margin-bottom: 30px;
+}
+.FlexBox button {
+  width: 30px;
+  border-radius: 30px;
+}
+.FlexBox p {
 }

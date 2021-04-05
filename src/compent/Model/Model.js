@@ -15,10 +15,10 @@ const Login = (props) => {
   return (
     <div>
       <Button color="danger" onClick={toggle}>Login</Button>
-      <Modal isOpen={modal} modalTransition={{ timeout: 700 }} backdropTransition={{ timeout: 1300 }}
+      <Modal className="Wiss" isOpen={modal} modalTransition={{ timeout: 700 }} backdropTransition={{ timeout: 1300 }}
         toggle={toggle} className={className}>
       
-        <ModalBody style={{borderRadius:"30px" }}>
+        
         <div className="lOGIN">
     
             <p>Email</p>
@@ -34,7 +34,7 @@ const Login = (props) => {
            
          
         </div>
-        </ModalBody>
+    
        
       </Modal>
     </div>
