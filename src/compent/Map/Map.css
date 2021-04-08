@@ -17,7 +17,9 @@
 .BackGround55 p {
   font-size: 25px;
 }
-
+.Testxaa {
+  margin-left: 220px;
+}
 .Testxaa p {
   margin-top: 50px;
   padding-left: 600px;
@@ -31,10 +33,10 @@
   font-family: "Sakkal Majalla";
   font-size: 43px;
   height: 30px;
-  margin-left: 100px;
+  margin-left: 250px;
 }
 .EnAfrique {
-  margin-left: 220px;
+  margin-left: 70px;
   margin-bottom: 30px;
 }
 .Binpact59 img {
@@ -45,6 +47,25 @@
   box-shadow: none;
 }
 .Map {
-  margin-left: 50px;
+  margin-left: 200px;
   margin-bottom: 50px;
+}
+@media screen and (max-width: 700px) {
+  .Map {
+    flex-direction: column;
+    margin-left: 50px;
+  }
+  .Map img {
+    margin-top: 30px;
+
+    margin-bottom: 30px;
+  }
+  .Map {
+  }
+  .Testxaa {
+    display: none;
+  }
+  .EnEurope {
+    display: none;
+  }
 }

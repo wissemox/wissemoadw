@@ -8,7 +8,9 @@
 
   display: flex;
   flex-wrap: wrap;
+  margin-left: 200px;
 }
+
 .FlexBox {
   margin-left: 60px;
 }
@@ -41,14 +43,14 @@
   background-color: #2864aa;
   height: 30px;
   border-radius: 50px;
-  margin-left: px;
+  margin-left: 50px;
   font-size: 20px;
   font-family: "Sakkal Majalla";
   width: 200px;
   color: white;
 }
 .ProductBackGround input {
-  margin-left: 580px;
+  margin-left: 750px;
   background-color: none;
   border-radius: 18px;
   border: solid 2px rgb(160, 160, 160);
@@ -66,7 +68,8 @@
 }
 .ProductBackGround h1 {
   padding-top: 50px;
-  padding-left: 620px;
+  padding-bottom: 50px;
+  padding-left: 790px;
   font-size: 50px;
   font-family: "Sakkal Majalla";
   font-weight: 400;
@@ -97,11 +100,15 @@
 .AllProductThink {
   margin-top: 20px;
 }
+
 .NameProdiuct p {
   margin-bottom: 20px;
 }
 .NameProdiuct p {
   padding-top: 20px;
+}
+.FlexBoxButton {
+  margin-left: 250px;
 }
 .Prix {
   display: flex;
@@ -230,4 +237,52 @@
   border-radius: 30px;
 }
 .FlexBox p {
+}
+/* OneForAll02 */
+@media screen and (max-width: 700px) {
+  .ProductMapFlex {
+    -webkit-transition: 2s;
+    width: 1500px;
+
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+  }
+  .OneForAll02 {
+    -webkit-transition: 2s;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+
+    flex-wrap: wrap;
+  }
+  .ProductMapFlex {
+    -webkit-transition: 2s;
+    width: 250px;
+  }
+  .FlexBoxButton {
+    -webkit-transition: 2s;
+    margin-right: 50px;
+  }
+  .ProductBackGround {
+    -webkit-transition: 2s;
+    height: 3400px;
+  }
+  .ProductBackGround input {
+    -webkit-transition: 2s;
+    margin-left: 150px;
+    background-color: none;
+    border-radius: 18px;
+    border: solid 2px rgb(160, 160, 160);
+    width: 420px;
+  }
+  .ProductBackGround h1 {
+    -webkit-transition: 2s;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-left: 180px;
+    font-size: 50px;
+    font-family: "Sakkal Majalla";
+    font-weight: 400;
+  }
 }

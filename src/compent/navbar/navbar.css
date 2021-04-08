@@ -1,17 +1,22 @@
 .Navbar {
   display: flex;
+  -webkit-transition: 1s;
 }
 .Navbar {
+  -webkit-transition: 1s;
   height: 70px;
   margin-bottom: 20px;
 }
 .Text p {
+  -webkit-transition: 1s;
   width: 100px;
 }
 .Text {
+  -webkit-transition: 1s;
   display: flex;
 }
 .NavBar02 {
+  -webkit-transition: 1s;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
@@ -19,23 +24,28 @@
   height: 100px;
 }
 .Navbar img {
+  -webkit-transition: 1s;
   margin-top: 20px;
   margin-left: 110px;
   width: 200px;
 }
 .Text {
+  -webkit-transition: 1s;
   font-family: "Sakkal Majalla";
   padding-top: 27px;
   font-size: 25px;
-  margin-left: 300px;
+  margin-left: 700px;
 }
 .Text p {
+  -webkit-transition: 1s;
   margin-left: 45px;
 }
 .NavBar02 {
+  -webkit-transition: 1s;
   margin-top: 30px;
 }
 .SignUp {
+  -webkit-transition: 1s;
   background-color: #bf0d1f;
   width: 80px;
   padding-left: 30px;
@@ -44,6 +54,7 @@
 }
 
 .Login {
+  -webkit-transition: 1s;
   background-color: #2864aa;
   width: 80px;
   padding-left: 30px;
@@ -51,7 +62,248 @@
   border-radius: 30px;
 }
 .Dadaz {
+  -webkit-transition: 1s;
   margin-left: 50px;
   margin-right: 50px;
   height: 150px;
+}
+
+.Test06 {
+  -webkit-transition: 1s;
+  display: flex;
+}
+
+.Image5 {
+  -webkit-transition: 1s;
+  display: none;
+}
+.Image5 img:hover {
+  -webkit-transition: 1s;
+  background-color: none;
+  transform: scale(1.1);
+  transition: transform 0.2s;
+  -webkit-transition: 1s;
+}
+/*  background-color: #2a65aa;
+  opacity: 60%; */
+.Text55 {
+  display: none;
+}
+
+@media screen and (max-width: 700px) {
+  .Navbar {
+    margin-left: 50px;
+  }
+  .Test06 {
+    display: none;
+  }
+  .Image5 {
+    display: flex;
+  }
+  .ImageFlexa {
+    display: flex;
+    flex-direction: column;
+  }
+  .NavBar02 {
+    background-color: white;
+  }
+  .Text55 {
+    -webkit-transition: 2s;
+    background-image: url("BackgroundImage05.png");
+
+    opacity: 50%;
+    display: flex;
+    opacity: 80%;
+    opacity: 100%;
+    flex-direction: column;
+    background-color: #f2f2f2;
+    width: 500px;
+    margin-left: 60px;
+    width: 350px;
+    margin-top: 20px;
+  }
+  .Text55 p {
+    padding-left: 30px;
+    opacity: 100%;
+  }
+  .Text55 button {
+    margin-top: 5px;
+    margin-left: 30px;
+  }
+  .Image5 {
+    margin-right: 20px;
+
+    margin-left: 100px;
+  }
+  .ImageFlex02 img {
+    width: 100px;
+  }
+  .ImageFlex02 img {
+    margin-right: 25px;
+
+    -webkit-transition: 2s;
+    width: 50px;
+    width: 200px;
+    width: 250px;
+  }
+  .ImageFlex02 {
+    margin-left: 20px;
+  }
+  .Image5 img {
+    -webkit-transition: 1s;
+    width: 40px;
+    height: 40px;
+  }
+
+  .NavBar02 {
+    height: 200px;
+  }
+  .Test06 {
+    display: inline;
+
+    -webkit-transition: 1s;
+    width: 500px;
+    background-color: #2a65aa;
+    display: none;
+    text-align: center;
+    margin-top: 10px;
+    height: 400px;
+  }
+  /* BackgrundImage0567 */
+  .Text55 p {
+    -webkit-transition: 1s;
+    padding-top: 20px;
+    font-family: "Sakkal Majalla";
+    padding-right: 60px;
+    font-weight: 500;
+    font-size: 32px;
+    text-align: center;
+    color: rgb(56, 56, 56);
+    padding-left: 50px;
+  }
+  .Text55 button {
+    -webkit-transition: 1s;
+    width: 250px;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .Text {
+    -webkit-transition: 1s;
+    margin-left: 200px;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .Text {
+    -webkit-transition: 1s;
+    margin-left: 100px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .Text {
+    -webkit-transition: 1s;
+    margin-left: 50px;
+  }
+}
+@media screen and (max-width: 1150px) {
+  Text {
+    -webkit-transition: 1s;
+    padding-right: 30px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  Text {
+    -webkit-transition: 1s;
+    padding-right: 20px;
+  }
+}
+/*  .Navbar {
+    background-color: red;
+  } */
+@media screen and (max-width: 1150px) {
+  .Text p {
+    -webkit-transition: 1s;
+    padding-right: 30px;
+    height: 10px;
+    width: 70px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .Text p {
+    -webkit-transition: 1s;
+    padding-right: 30px;
+    height: 10px;
+    width: 50px;
+  }
+  .Navbar {
+  }
+}
+@media screen and (max-width: 1050px) {
+  .Text p {
+    -webkit-transition: 1s;
+    padding-right: 30px;
+    height: 10px;
+    width: 50px;
+  }
+  .Navbar {
+  }
+}
+@media screen and (max-width: 1000px) {
+  .Text p {
+    -webkit-transition: 1s;
+    padding-right: 30px;
+    height: 10px;
+    width: 30px;
+    font-size: 20px;
+    padding-top: 10px;
+  }
+  .Text {
+    padding-right: 30px;
+
+    height: 30px;
+  }
+
+  .Dadaz {
+    width: 30px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .Text p {
+    -webkit-transition: 1s;
+    padding-right: 40px;
+  }
+  .Text button {
+    width: 60px;
+  }
+  .Dadaz {
+    width: 30px;
+  }
+  .Text {
+    margin-left: 5px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .Text p {
+    -webkit-transition: 1s;
+    padding-right: 10px;
+  }
+
+  .Dadaz {
+    width: 20px;
+  }
+  .Text {
+    margin-right: 20px;
+  }
+  .Navbar {
+  }
+  .ImageFlex02 {
+    width: 280px;
+  }
+}
+
+.Text60 p:hover {
+  color: #2a65aa;
 }

@@ -154,20 +154,73 @@
   height: 400px;
 }
 .Text02 {
-  font-family: "Sakkal Majalla";
-  font-size: 28px;
-
-  padding-left: 580px;
-  margin-bottom: 50px;
+  display: none;
 }
-.Text02 h1 {
-  padding-left: 60px;
-  height: 40px;
+.Service03 {
+  margin-left: 180px;
+  margin-top: 100px;
+  flex-direction: column;
 }
-.Text02 h3 {
-  font-size: 28px;
-  padding-left: 35px;
-  color: #898989;
+/* .Service03 {
+  margin-left: 180px;
+  margin-top: 200px;
+  flex-direction: column;
+} */
+@media screen and (max-width: 1000px) {
+  .Service03 {
+    -webkit-transition: 1s;
+    margin-top: 200px;
+    margin-left: 90px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1px;
+  }
+  .Text02 {
+    display: none;
+  }
 
-  font-weight: 300;
+  .Dasw {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .Service03 {
+    -webkit-transition: 1s;
+    margin-top: 200px;
+    margin-left: 5px;
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .Text02 {
+    display: none;
+  }
+  .Dasw {
+    flex-direction: column;
+  }
+  .Dasw {
+    -webkit-transition: 1s;
+    margin-right: 150px;
+    width: 50px;
+  }
+  .ListProduct {
+  }
+  .Service {
+    -webkit-transition: 1s;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    margin-left: 120px;
+  }
+  .ListProduct {
+    -webkit-transition: 1s;
+    margin-right: 22px;
+    margin-top: 20px;
+  }
+  .Progress {
+    -webkit-transition: 1s;
+    margin-left: 10px;
+    margin-top: 40px;
+  }
 }
